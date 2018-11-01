@@ -1,0 +1,24 @@
+"C:\Program Files\Java\jdk-10.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.3\lib\idea_rt.jar=54461:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.3\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\dougw\IdeaProjects\Tester\out\production\Tester Main
+Attempt 0: 0
+Attempt 1: 1
+Attempt 2: 0
+Attempt 3: 1
+Attempt 4: 1
+Attempt 5: 0
+Attempt 6: 0
+Attempt 7: 0
+Attempt 8: 1
+Attempt 9: 1
+.
+.
+.
+Attempt 999996: 1
+Attempt 999997: 0
+Attempt 999998: 1
+Attempt 999999: 0
+Attempt 1000000: 0
+Out of 1000000 tests,
+Times true : 499873, or 49.99%
+Times false: 500128, or 50.01%
+
+Process finished with exit code 0
