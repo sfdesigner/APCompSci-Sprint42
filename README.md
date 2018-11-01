@@ -1,2 +1,2 @@
-# APCompSci-Sprint41
-Sample code for Sprint 41: The for Loop
+# APCompSci-Sprint42
+Sample code for Sprint 42: The for Loop
